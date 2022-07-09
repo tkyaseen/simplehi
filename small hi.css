@@ -1,0 +1,32 @@
+
+
+
+body {
+
+
+background-color:green;
+background-image:url("/storage/emulated/0/Shanu/Vandi prand/Bike/202206221935270.jpg");
+
+
+
+}
+.hi {
+float:left;
+padding-left:5%; padding-top:25px; padding-bottom:25px; padding-right:5%;
+background-color:brown; 
+
+}
+.hi:hover {
+
+background-color:blue;
+color:white;
+}
+
+
+
+
+
+
+
+
+
